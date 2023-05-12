@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n1, n2, s;
+            n1 = 10;
+            n2 = 2;
+            s=n2+ n1;
         }
     }
 }
